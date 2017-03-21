@@ -1,0 +1,12 @@
+<module_tree>
+		<arrows>
+		</arrows>
+		<modules>
+				<module name='PXUA105_1APR_JP' x='0' y='0' />
+				<module name='PXUE105_1APR_JAP' x='3' y='0' />
+				<module name='PXUH105_1APR_JP' x='1' y='0' />
+				<module name='PXUS105_1APR_JP' x='2' y='0' />
+		</modules>
+		<ships>
+		</ships>
+</module_tree>

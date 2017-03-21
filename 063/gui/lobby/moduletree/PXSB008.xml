@@ -1,0 +1,12 @@
+<module_tree>
+		<arrows>
+		</arrows>
+		<modules>
+				<module name='PXUA101_1APR_RAT' x='0' y='0' />
+				<module name='PXUE101_1APR_RAT' x='3' y='0' />
+				<module name='PXUH101_1APR_RAT' x='1' y='0' />
+				<module name='PXUS101_1APR_RAT' x='2' y='0' />
+		</modules>
+		<ships>
+		</ships>
+</module_tree>

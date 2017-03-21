@@ -1,0 +1,12 @@
+<module_tree>
+		<arrows>
+		</arrows>
+		<modules>
+				<module name='PXUD001_D1A2' x='2' y='0' />
+				<module name='PXUE006_ENG_TONE' x='3' y='0' />
+				<module name='PXUF001_FlightControl_1' x='0' y='0' />
+				<module name='PXUH006_HULL_TONE' x='1' y='0' />
+		</modules>
+		<ships>
+		</ships>
+</module_tree>
